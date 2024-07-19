@@ -1,0 +1,76 @@
+* {
+    margin: 0;
+    padding: 0;
+    font-family: math;
+  }
+  .title {
+    color: rgba(150,255,255, 1.0);
+    font-family: Helvetica;
+    text-align: center;
+    background-image: url("https://static.vecteezy.com/system/resources/previews/002/558/880/non_2x/abstract-header-with-rainbow-colors-oblique-lines-banner-colorful-background-vector.jpg");
+    text-shadow: 0 0 3px #FF0000, 0 0 5px #0000FF;
+    margin: 0 auto;
+    height: 80px;
+  }
+  body {
+    background-color: rgba(128, 128, 128, 0.3);
+  }
+  .subtitle {
+    text-align: center;
+    font-family: Helvetica;
+    background-color: rgb(200, 200, 250);
+  }
+  table {
+    border-collapse: separate;
+  }
+  .tag {
+    background-color: rgba(127, 0, 255, 0.3);
+    width: 100%;
+    border: black solid 3px;
+  }
+  .type {
+    background-color: rgba(127, 0, 255, 0.3);
+    width: 100%;
+    border: black solid 3px;
+  }
+  th {
+    border-right: black solid 2px;
+    padding-right: 4px;
+    background-color: rgba(127, 0, 255, 0.3);
+  }
+  td {
+    border-bottom: black solid 2px;
+    text-align: center;
+    font-weight: bold;
+  }
+  .red {
+    color: red;
+  }
+  .blue {
+    color: blue;
+  }
+  .green {
+    color: green;
+  }
+  .css {
+    font-family: "Monospace";
+    background-color: rgba(255, 0, 255, 0.1);
+    border: solid salmon 2px;
+    padding: 3px;
+    font-weight: bold;
+    width: 20%;
+    max-width: 20%;
+    }
+  .description {
+    font-family: Monospace;
+    background-color: orange;
+    border: dotted yellow 2px;
+    padding: 10px;
+    font-weight: bold;
+    font-size: 15px;
+    width: 50%;
+    max-width: 50%;  
+    }
+    .name {
+      width: 20%;
+    }
